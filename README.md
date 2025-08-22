@@ -5,7 +5,7 @@ I am Anita,
 🚀 **Aspiring DevOps Engineer | Cloud Enthusiast | Continuous Learner**  
 
 ## 🌟 About Me 
-🌱 I’m currently learning **DevOps & Cloud Engineering (Linux, Git, Docker, Jenkins, AWS, Terraform)**  
+🌱 I’m currently learning **DevOps & Cloud Engineering (Linux, Git & GitHub, Docker, Jenkins, AWS, Terraform)**  
 - 💡 My goal: Become a **DevOps Engineer** with hands-on projects  
 - 📝 I share my learning journey through **projects & labs** on GitHub  
 - ⚡ Fun fact: I started my tech journey with **zero knowledge**, now building step by step 🚀
